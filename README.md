@@ -6,7 +6,7 @@ Hidden Source, but an Android APK is available.
 **GAMEPLAY:**  
 ![](toipGamePlayGIF.gif)
   
-**ONE OF MANY PHASES THAT CAN OCCUR:**
+**ONE OF MANY PHASES THAT CAN OCCUR:**  
 ![](toipNukeGIF.gif)
 
 **COLLECT GEMS TO UNLOCK COLOR PACKS:**  
