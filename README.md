@@ -8,8 +8,8 @@ Hidden Source, but an Android APK is available.
 **ONE OF MANY PHASES THAT CAN OCCUR:**
 ![](toipNukeGIF.gif)
 
-**COLLECT GEMS TO UNLOCK COLOR PACKS:**
+**COLLECT GEMS TO UNLOCK COLOR PACKS:**  
 ![](toipGemsGIF.gif)
  	
-Playstore screenshot:
+Playstore screenshot:  
 ![](toip_ss.png)
